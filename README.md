@@ -10,4 +10,5 @@ Here is all LCSTS dataset ===>链接：https://pan.baidu.com/s/1L9LDzDgPJNPtDgOw
 Here is the FINISHED_FILES ===> 链接：https://pan.baidu.com/s/1QtyRmETIQiiO-nd_P-QwbQ 提取码：g20i 
 
 ### 第二种
-（未完待续）
+This repository holds the output of the repository:https://github.com/lancopku/Global-Encoding
+(未完待续)
