@@ -15,5 +15,7 @@ This repository holds the output of the repository:https://github.com/lancopku/G
 
 ### 第三种
 This repository holds the output of the repository:https://github.com/kururuken/BERT-Transformer-for-Summarization
+
 Here is the LCSTS_train_text dataset ===>链接：https://pan.baidu.com/s/1VZVtweiR837npHezXPLirA 提取码：c19n 
+
 Here is processed LCSTS_train_text dataset ===>链接：https://pan.baidu.com/s/1A4Gl6wTiGLKt_gTvxMBKeQ 提取码：103f 
