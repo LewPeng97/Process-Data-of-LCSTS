@@ -11,6 +11,7 @@ Here is the FINISHED_FILES ===> 链接：https://pan.baidu.com/s/1QtyRmETIQiiO-n
 
 ### 第二种
 This repository holds the output of the repository:https://github.com/lancopku/Global-Encoding
+
 (未完待续)
 
 ### 第三种
