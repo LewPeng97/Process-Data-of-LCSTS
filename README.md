@@ -1,5 +1,5 @@
 # Process-Data-of-LCSTS
-针对LCSTS数据集，目前有两种预处理方式。
+针对LCSTS数据集，目前有三种预处理方式。
 ### 第一种
 This repository holds the output of the repository:https://github.com/atulkum/pointer_summarizer
 
